@@ -1,0 +1,7 @@
+﻿  Samostiyna_Task3.cpp
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\Samostiyna_Task3\Samostiyna_Task3.cpp(9,50): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\Samostiyna_Task3\Samostiyna_Task3.cpp(14,8): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\Samostiyna_Task3\Samostiyna_Task3.cpp(16,20): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\Samostiyna_Task3\Samostiyna_Task3.cpp(18,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\Samostiyna_Task3\Samostiyna_Task3.cpp(20,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Samostiyna_Task3.vcxproj -> D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_2\x64\Debug\Samostiyna_Task3.exe
