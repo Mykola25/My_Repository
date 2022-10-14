@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Task3(1).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Task3.cpp
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_3\Task3\Task3.cpp(12,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Task3.vcxproj -> D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_3\x64\Debug\Task3.exe
