@@ -1,0 +1,4 @@
+﻿  Task1.cpp
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_4\Task1\Task1.cpp(20,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_4\Task1\Task1.cpp(21,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Task1.vcxproj -> D:\КН-22-3[2]\Основи програмування\Лабораторні роботи з ОП\OP_Lab_4\x64\Debug\Task1.exe
